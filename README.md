@@ -1,4 +1,6 @@
 # Configraphix
+[![DOI](https://zenodo.org/badge/298358840.svg)](https://zenodo.org/badge/latestdoi/298358840)
+
 Configraphix is a library of tools for computational design and analysis of spatial configurations using networks and fields. We have partially published the tools introduced in three separate packages: [SYNTACTIC](https://www.grasshopper3d.com/group/space-syntax) & [CONFIGURBANIST](https://www.grasshopper3d.com/group/cheetah) and [RasterWorks](https://github.com/Pirouz-Nourian/Topological_Rasterization). The idea is to put the three together in one open-source package for design and analysis at various scales of built environments. The features of this library [will] include the features of these three libraries and more:
 
 * Computational Graph-Based Layout (extending/integrating [SYNTACTIC](https://www.grasshopper3d.com/group/space-syntax))
