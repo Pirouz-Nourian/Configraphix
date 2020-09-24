@@ -18,6 +18,7 @@ References:
 * P. Nourian, “Configraphics: Graph Theoretical Methods for Design and Analysis of Spatial Configurations,” Doi.Org, vol. 6, no. 14. pp. 1–348, 2016, [url](https://books.bk.tudelft.nl/index.php/press/catalog/book/546). ISBN-13 15) 978-94-6186-720-9
 * Nourian, P., Gonçalves, R., Zlatanova, S., Ohori, K. A., & Vo, A. V. (2016). Voxelization algorithms for geospatial applications: Computational methods for voxelating spatial datasets of 3D city models containing 3D surface, curve and point data models. MethodsX, 3, 69-86.
 * Bai,N., Azadi, S., Nourian, P., Pereira Roders, A. Decision-Making as a Social Choice Game: Gamifying an urban redevelopment process in search for consensus
+* Nourian, P., Rezvani, S., Valeckaite, K. and Sariyildiz, S. (2018), "Modelling walking and cycling accessibility and mobility: The effect of network configuration and occupancy on spatial dynamics of active mobility", Smart and Sustainable Built Environment, Vol. 7 No. 1, pp. 101-116. https://doi.org/10.1108/SASBE-10-2017-0058
 
 
 
